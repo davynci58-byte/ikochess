@@ -1,5 +1,8 @@
 node_modules/
-dist/
 .env
-*.log
-.DS_Store
+*.db
+*.db-wal
+*.db-shm
+dist/
+client/dist/
+bot.log
